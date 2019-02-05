@@ -1,0 +1,18 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "bin/": true,
+    ".classpath": true,
+    ".project": true
+  },
+  "workbench.commandPalette.history": 100,
+  "workbench.commandPalette.preserveInput": true,
+  "files.autoSave": "onFocusChange",
+  "files.hotExit": "onExitAndWindowClose",
+  "java.saveActions.organizeImports": true
+}
