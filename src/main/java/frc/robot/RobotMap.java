@@ -26,6 +26,7 @@ public class RobotMap {
 	public static Spark Dumper = new Spark(5);
 	public static Spark IntakeRotate = new Spark(4);
 	
+
 	public static Talon LeftDriveFront = new Talon(1);
 	public static Talon LeftDriveBack = new Talon(2);
 	public static Talon RightDriveFront = new Talon(0);

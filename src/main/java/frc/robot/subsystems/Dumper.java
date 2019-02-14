@@ -10,9 +10,8 @@ package frc.robot.subsystems;
 import edu.wpi.first.wpilibj.command.Subsystem;
 import frc.robot.RobotMap;
 
-/**
- * Add your docs here.
- */
+// Add your docs here.
+ 
 public class Dumper extends Subsystem {
   
     // Put methods for controlling this subsystem
